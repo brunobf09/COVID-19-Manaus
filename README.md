@@ -1,1 +1,1 @@
-# COVID-19-Manaus
+# COVID-19_Manaus
